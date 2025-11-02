@@ -21,13 +21,6 @@ Code yang digunakan di client dan server:
 * Utility functions
 * Constants
 
-#### 🗄️ **Database Layer**
-Abstraction layer untuk database operations:
-* Query builder
-* Connection pooling
-* Transaction support
-* Migration system
-
 ### Player System
 Comprehensive player management dengan support untuk:
 * Multiple characters per account
