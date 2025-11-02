@@ -100,17 +100,7 @@ Bergabunglah dengan komunitas vCore:
 * [Discord Server](https://discord.gg/vcore) - Diskusi, bantuan, dan showcase
 * [GitHub Issues](https://github.com/Vcore-Framework/vCore/issues) - Report bugs atau request features
 
-## Butuh Bantuan?
-
-{% content-ref url="faq/" %}
-[faq](faq/)
-{% endcontent-ref %}
-
-{% content-ref url="community/support.md" %}
-[support.md](community/support.md)
-{% endcontent-ref %}
-
-## 📝 License
+## License
 
 vCore Framework dilisensikan under [MIT License](https://github.com/Vcore-Framework/vCore/blob/main/LICENSE).
 
