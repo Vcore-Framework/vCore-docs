@@ -1,20 +1,20 @@
 ### Layers Explanation
 
-#### 🖥️ **Server Layer**
+#### **Server side**
 Menangani semua logic server-side:
 * Player management
 * Database operations
 * Permission checks
 * Event handling
 
-#### 💻 **Client Layer**
+#### **Client side**
 Menangani semua interaksi dengan player:
 * UI rendering
 * Input handling
 * Visual effects
 * Client-side validation
 
-#### 🔄 **Shared Layer**
+#### **Shared side**
 Code yang digunakan di client dan server:
 * Configuration
 * Locale/translations
@@ -27,8 +27,6 @@ Abstraction layer untuk database operations:
 * Connection pooling
 * Transaction support
 * Migration system
-
-## 🔑 Key Features
 
 ### Player System
 Comprehensive player management dengan support untuk:
@@ -73,7 +71,7 @@ Built-in MySQL/MariaDB support dengan:
 * Transaction support
 * Query builder
 
-## 🎨 Design Patterns
+## Design Patterns
 
 vCore mengimplementasikan several design patterns:
 
@@ -97,7 +95,7 @@ AddEventHandler('vcore:playerLoaded', function(player)
 end)
 ```
 
-## 🔐 Security
+## Security
 
 vCore Framework memiliki beberapa security features:
 
@@ -134,24 +132,13 @@ vCore.RegisterCommand('admin', 'admin', function(xPlayer, args)
 end)
 ```
 
-## 📊 Comparison
-
-| Feature | vCore | ESX | QBCore |
-|---------|-------|-----|--------|
-| **Performance** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
-| **Modern Code** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ |
-| **Documentation** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ |
-| **Learning Curve** | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
-| **Community** | 🆕 | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
-
-## 🎯 Who Should Use vCore?
+## Who Should Use vCore?
 
 vCore cocok untuk:
 
-✅ **Server owners** yang ingin framework modern dan performant  
-✅ **Developers** yang menghargai clean code dan good practices  
-✅ **Teams** yang butuh framework mudah di-maintain  
-✅ **Beginners** yang ingin belajar framework dengan dokumentasi lengkap  
+**Server owners** yang ingin framework modern dan performance
+**Teams** yang butuh framework mudah di-maintain  
+**Beginners** yang ingin belajar framework dengan dokumentasi lengkap  
 
 ## Next Steps
 
