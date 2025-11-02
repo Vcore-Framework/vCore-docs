@@ -102,10 +102,10 @@ vCore Framework memiliki beberapa security features:
 ### Server-side Validation
 Semua critical operations divalidasi di server:
 ```lua
--- ❌ BAD: Client can modify directly
+-- BAD: Client can modify directly
 TriggerServerEvent('vcore:giveMoney', 999999)
 
--- ✅ GOOD: Server validates
+-- GOOD: Server validates
 RegisterNetEvent('vcore:requestReward')
 AddEventHandler('vcore:requestReward', function()
     local xPlayer = vCore.GetPlayer(source)
@@ -118,7 +118,7 @@ end)
 ### SQL Injection Prevention
 Menggunakan prepared statements:
 ```lua
--- ✅ SAFE: Parameterized query
+-- SAFE: Parameterized query
 vCore.Database.Execute('UPDATE users SET money = ? WHERE identifier = ?', {
     money, identifier
 })
@@ -149,3 +149,7 @@ vCore cocok untuk:
 {% content-ref url="../installation/" %}
 [installation](../installation/)
 {% endcontent-ref %}
+
+{% hint style="info" %}
+**Dokumentasi ini selalu diupdate!** Jika ada yang kurang jelas atau ada saran, silakan buka issue di [GitHub](https://github.com/Vcore-Framework/vcore-docs).
+{% endhint %}
