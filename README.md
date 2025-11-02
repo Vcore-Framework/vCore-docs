@@ -16,17 +16,17 @@ layout:
     visible: true
 ---
 
-# 👋 Selamat Datang di vCore Framework
+# Selamat Datang di vCore Framework Docs
 
 ## Apa itu vCore?
 
 vCore adalah framework FiveM modern yang dirancang untuk membuat server roleplay dengan arsitektur yang bersih, modular, dan mudah dikembangkan. Framework ini dibangun dengan fokus pada performa, kemudahan penggunaan, dan fleksibilitas.
 
 {% hint style="success" %}
-**vCore Framework dibuat untuk developer yang ingin membuat server roleplay berkualitas tinggi dengan development time yang lebih cepat.**
+**vCore Framework dibuat untuk developer yang ingin membuat server roleplay dengan development time yang lebih cepat.**
 {% endhint %}
 
-## 🚀 Quick Start
+## Quick Start
 
 Ingin langsung mulai? Ikuti langkah-langkah berikut:
 
@@ -61,41 +61,7 @@ Ingin langsung mulai? Ikuti langkah-langkah berikut:
   </tbody>
 </table>
 
-## ✨ Fitur Utama
-
-### 🎭 Sistem Roleplay Lengkap
-
-* Multi-character system
-* Identity & appearance system
-* Job & grade system dengan permissions
-* Economy system (cash & bank)
-* Inventory system yang fleksibel
-
-### 💻 Developer Friendly
-
-* API yang mudah dipahami dan powerful
-* Dokumentasi lengkap dengan contoh
-* Event system yang terorganisir
-* Callback system untuk operasi async
-* Debug tools yang memudahkan development
-
-### 🎨 User Interface Modern
-
-* HUD system yang customizable
-* Notification system
-* Menu system yang responsive
-* React-based UI components
-* Smooth animations
-
-### ⚡ Performance Optimized
-
-* Efficient database queries
-* Resource optimization
-* Memory management
-* Minimal client-side impact
-* Server-side validation
-
-## 📖 Dokumentasi
+## Dokumentasi
 
 Dokumentasi ini dibagi menjadi beberapa bagian:
 
@@ -131,11 +97,10 @@ Panduan lengkap untuk semua file konfigurasi vCore.
 
 Bergabunglah dengan komunitas vCore:
 
-* 💬 [Discord Server](https://discord.gg/vcore) - Diskusi, bantuan, dan showcase
-* 🐛 [GitHub Issues](https://github.com/Vcore-Framework/vCore/issues) - Report bugs atau request features
-* 📺 [YouTube Channel](https://youtube.com/@vcore) - Tutorial video
+* [Discord Server](https://discord.gg/vcore) - Diskusi, bantuan, dan showcase
+* [GitHub Issues](https://github.com/Vcore-Framework/vCore/issues) - Report bugs atau request features
 
-## 🆘 Butuh Bantuan?
+## Butuh Bantuan?
 
 {% content-ref url="faq/" %}
 [faq](faq/)
