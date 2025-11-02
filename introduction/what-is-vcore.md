@@ -12,10 +12,6 @@ vCore adalah framework FiveM modern yang didesain dengan fokus pada **performa**
 vCore dibangun dengan best practices dan modern coding standards untuk memastikan server Anda berjalan dengan optimal.
 {% endhint %}
 
-## 🎯 Philosophy
-
-vCore Framework dibangun dengan 4 prinsip utama:
-
 ### 1. Clean Architecture
 ```lua
 -- Struktur kode yang jelas dan mudah dipahami
@@ -55,6 +51,6 @@ vCore.RegisterCallback('vcore:getCustomData', function(source, cb)
 end)
 ```
 
-## 🏗️ Architecture
-
-vCore menggunakan **modular monolithic architecture** yang memisahkan concerns dengan jelas:
+{% hint style="info" %}
+**Dokumentasi ini selalu diupdate!** Jika ada yang kurang jelas atau ada saran, silakan buka issue di [GitHub](https://github.com/Vcore-Framework/vcore-docs).
+{% endhint %}
