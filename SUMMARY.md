@@ -126,7 +126,7 @@
 
 ## Changelogs
 
-* [📝 Overview](changelogs/README.md)
-* [🎉 Version 1.0.0](changelogs/v1.0.0.md)
-* [✨ Version 1.1.0](changelogs/v1.1.0.md)
-* [🔮 Upcoming Changes](changelogs/upcoming.md)
+* [Overview](changelogs/README.md)
+* [Version 1.0.0](changelogs/v1.0.0.md)
+* [Version 1.1.0](changelogs/v1.1.0.md)
+* [Upcoming Changes](changelogs/upcoming.md)
