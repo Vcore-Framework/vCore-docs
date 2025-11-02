@@ -65,10 +65,6 @@ Ingin langsung mulai? Ikuti langkah-langkah berikut:
 
 Dokumentasi ini dibagi menjadi beberapa bagian:
 
-### [Introduction](introduction/)
-
-Pengenalan tentang vCore Framework, fitur-fitur, dan perbandingan dengan framework lain.
-
 ### [Getting Started](getting-started/)
 
 Panduan instalasi, konfigurasi awal, dan langkah-langkah pertama menggunakan vCore.
