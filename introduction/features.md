@@ -1,4 +1,4 @@
-### Layers Explanation
+### Side Explanation
 
 #### **Server side**
 Menangani semua logic server-side:
@@ -135,12 +135,8 @@ vCore cocok untuk:
 
 ## Next Steps
 
-{% content-ref url="features.md" %}
-[features.md](features.md)
-{% endcontent-ref %}
-
-{% content-ref url="../installation/" %}
-[installation](../installation/)
+{% content-ref url="what-is-vcore.md" %}
+[features.md](what-is-vcore.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}
