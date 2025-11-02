@@ -136,7 +136,7 @@ vCore cocok untuk:
 ## Next Steps
 
 {% content-ref url="what-is-vcore.md" %}
-[features.md](what-is-vcore.md)
+[what-is-vcore.md](what-is-vcore.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}
