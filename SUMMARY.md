@@ -6,8 +6,7 @@
 
 * [Apa itu vCore?](introduction/what-is-vcore.md)
 * [Kenapa Pilih vCore?](introduction/why-vcore.md)
-* [Fitur-Fitur](introduction/features.md)
-* [Perbandingan Framework](introduction/comparison.md)
+* [Fitur](introduction/features.md)
 
 ## Getting Started
 
@@ -123,10 +122,3 @@
 * [Installation FAQ](faq/installation.md)
 * [Common Errors](faq/errors.md)
 * [Performance FAQ](faq/performance.md)
-
-## Changelogs
-
-* [Overview](changelogs/README.md)
-* [Version 1.0.0](changelogs/v1.0.0.md)
-* [Version 1.1.0](changelogs/v1.1.0.md)
-* [Upcoming Changes](changelogs/upcoming.md)
