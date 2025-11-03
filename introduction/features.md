@@ -133,12 +133,6 @@ vCore cocok untuk:
 **Teams** yang butuh framework mudah di-maintain  
 **Beginners** yang ingin belajar framework dengan dokumentasi lengkap  
 
-## Next Steps
-
-{% content-ref url="what-is-vcore.md" %}
-[what-is-vcore.md](what-is-vcore.md)
-{% endcontent-ref %}
-
 {% hint style="info" %}
 **Dokumentasi ini selalu diupdate!** Jika ada yang kurang jelas atau ada saran, silakan buka issue di [GitHub](https://github.com/Vcore-Framework/vcore-docs).
 {% endhint %}
